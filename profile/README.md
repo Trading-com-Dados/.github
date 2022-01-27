@@ -14,9 +14,13 @@ Our mission is to deliver knowledge in data science and programming and by doing
 Useful links
 
 Instagram
+
 LinkedIn
+
 YouTube
+
 Telegram
+
 Crunchbase
 
 <!--
