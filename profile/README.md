@@ -9,7 +9,15 @@ Our mission is to deliver knowledge in data science and programming and by doing
 
 ![Alt-Text](https://tradingcomdados.com/images/logotipo/logotipo-trading-com-dados.svg)
 
-Crunchbase page
+---
+
+Useful links
+
+Instagram
+LinkedIn
+YouTube
+Telegram
+Crunchbase
 
 <!--
 
