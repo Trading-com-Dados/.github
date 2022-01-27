@@ -2,7 +2,14 @@
 
 We are Trading com Dados
 
+Trading com Dados is an intelligence provider for the financial market. We are data scientists with the aim of filling the gap that exists between the financial market and the data world, and we do that today by creating educational products and tools that help investors make use of data.
+
+Throughout our journey, we had the opportunity of teachingmore than 1200 students whose many of them are employed in the most important companies in the financial ecosystem in Brazil today, whether it's a stock broker or asset management firms.
+Our mission is to deliver knowledge in data science and programming and by doing so we are enabling a new generation of professionals to take part in the data-driven revolution that is taking place today in the Brazilian Financial Market.
+
 ![Alt-Text](https://tradingcomdados.com/images/logotipo/logotipo-trading-com-dados.svg)
+
+Crunchbase page
 
 <!--
 
