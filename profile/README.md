@@ -7,6 +7,8 @@ Trading com Dados is an intelligence provider for the financial market. We are d
 Throughout our journey, we had the opportunity of teachingmore than 1200 students whose many of them are employed in the most important companies in the financial ecosystem in Brazil today, whether it's a stock broker or asset management firms.
 Our mission is to deliver knowledge in data science and programming and by doing so we are enabling a new generation of professionals to take part in the data-driven revolution that is taking place today in the Brazilian Financial Market.
 
+| PERFIL EM CONSTRUÇÃO
+
 ![Alt-Text](https://tradingcomdados.com/images/logotipo/logotipo-trading-com-dados.svg)
 
 ---
