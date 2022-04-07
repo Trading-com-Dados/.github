@@ -15,13 +15,13 @@ Our mission is to deliver knowledge in data science and programming and by doing
 
 Useful links
 
-Instagram
+[Instagram](https://www.instagram.com/tradingcomdados/)
 
-LinkedIn
+[LinkedIn](https://br.linkedin.com/company/tradingcomdados)
 
-YouTube
+[YouTube](https://www.youtube.com/TradingcomDados)
 
-Telegram
+[Telegram](https://t.me/tradingcomdados)
 
 Crunchbase
 
