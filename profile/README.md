@@ -23,7 +23,6 @@ Useful links
 
 [Telegram](https://t.me/tradingcomdados)
 
-Crunchbase
 
 <!--
 
