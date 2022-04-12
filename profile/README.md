@@ -20,7 +20,7 @@ Useful links
 ![](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white&link=https://www.twitter.com/tradingcomdados)
 
 
-[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][https://www.instagram.com/tradingcomdados]
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][https://www.instagram.com/tradingcomdados]
 
 
 [YouTube](https://www.youtube.com/TradingcomDados)
