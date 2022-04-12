@@ -28,7 +28,7 @@ Useful links
 
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+11+número_de_telefone&text=Hello!)
 
-[<img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://t.me/tradingcomdados/)
+[<img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/tradingcomdados/)
 
 
 
