@@ -16,7 +16,8 @@ Our mission is to deliver knowledge in data science and programming and by doing
 Useful links
 
 
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/tradingcomdados/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/tradingcomdados/)<p>
+ 
 [<img src = "https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/tradingcomdados)
 
 [<img src = "https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=Youtube&logoColor=white">](https://www.youtube.com/TradingcomDados)
