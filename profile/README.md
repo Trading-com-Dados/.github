@@ -1,6 +1,8 @@
 ## We connect Data Science to Financial Markets
 
-![Alt-Text](https://tradingcomdados.com/images/logotipo/logotipo-trading-com-dados.svg){width=300px}
+![Alt-Text](https://tradingcomdados.com/images/logotipo/logotipo-trading-com-dados.svg)
+
+<img src="[drawing.jpg](https://tradingcomdados.com/images/logotipo/logotipo-trading-com-dados.svg)" alt="drawing" width="200"/>
 
 Hi there 👋
 
