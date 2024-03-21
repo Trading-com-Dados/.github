@@ -2,7 +2,7 @@
 
 ![Alt-Text](https://tradingcomdados.com/images/logotipo/logotipo-trading-com-dados.svg)
 
-<img src="https://tradingcomdados.com/images/logotipo/logotipo-trading-com-dados.svg" width="200"/>
+<img src="https://tradingcomdados.com/images/logotipo/logotipo-trading-com-dados.svg" width="400"/>
 
 Hi there 👋
 
